@@ -1,3 +1,5 @@
+##### Taş Kağıt Makas Oyunu #####
+
 import random
 import time
 
